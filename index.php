@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Med Mart Pharmacy</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- TOP WELCOME BAR -->
+<div class="top-bar">
+    <span>—</span>
+    <span>•</span>
+    <strong>WELCOME TO MED MART PHARMACY</strong>
+    <span>•</span>
+    <span>—</span>
+</div>
+
+
+<!-- NAVBAR -->
+<header class="navbar">
+
+    <div class="logo">
+        <img src="medmart-logo.png" alt="Med Mart Pharmacy">
+    </div>
+
+    <nav>
+        <a href="#home" class="active">Home</a>
+        <a href="#services">Services</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="nav-buttons">
+
+     <a href="tel:9904172592" ...>
+    ☎️ Call Now
+</a>
+
+     <a href="https://wa.me/919904172592" target="_blank" ...>
+    💬 WhatsApp
+</a>
+    </div>
+
+</header>
+
+
+<!-- HERO -->
+<section class="hero" id="home">
+
+    <div class="hero-left">
+
+        <div class="welcome">
+            WELCOME TO MED MART PHARMACY
+        </div>
+
+        <h1>
+            Your Health,<br>
+            <span>Our Priority.</span>
+        </h1>
+
+        <p>
+            Your trusted pharmacy for quality medicines,<br>
+            healthcare products and friendly service.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#contact" class="contact-btn">
+                Contact Us
+            </a>
+
+            <a href="tel:+919999999999" class="hero-call">
+                ☎ &nbsp; Call Now
+            </a>
+
+        </div>
+
+    </div>
+
+
+    <div class="hero-right">
+        <img src="medicine-card.png" alt="Med Mart Pharmacy">
+    </div>
+
+</section>
+
+
+<!-- SERVICES -->
+<section class="services" id="services">
+
+    <div class="section-small">
+        WHAT WE OFFER
+    </div>
+
+    <h2>Our Services</h2>
+
+    <div class="underline"></div>
+
+
+    <div class="service-container">
+
+        <div class="service-box">
+
+            <div class="icon">💊</div>
+
+            <div>
+                <h3>Medicines</h3>
+
+                <p>
+                    Quality medicines from<br>
+                    trusted brands.
+                </p>
+
+                <div class="small-line"></div>
+            </div>
+
+        </div>
+
+
+        <div class="service-box">
+
+            <div class="icon">♧</div>
+
+            <div>
+                <h3>Healthcare</h3>
+
+                <p>
+                    Healthcare products for<br>
+                    your daily needs.
+                </p>
+
+                <div class="small-line"></div>
+            </div>
+
+        </div>
+
+
+        <div class="service-box">
+
+            <div class="icon">🚚</div>
+
+            <div>
+                <h3>Home Delivery</h3>
+
+                <p>
+                    Get your medicines<br>
+                    delivered to your home.
+                </p>
+
+                <div class="small-line"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ABOUT -->
+<section class="about" id="about">
+
+    <div class="section-small">
+        ABOUT US
+    </div>
+
+    <h2>Trusted Pharmacy<br>For Your Family</h2>
+
+    <p>
+        Med Mart Pharmacy is committed to providing
+        quality medicines, healthcare products and
+        trusted pharmacy services for you and your family.
+    </p>
+
+</section>
+
+
+<!-- CONTACT -->
+<section class="contact" id="contact">
+
+    <div class="section-small">
+        GET IN TOUCH
+    </div>
+
+    <h2>Contact Med Mart Pharmacy</h2>
+
+    <div class="contact-container">
+
+        <div class="contact-box">
+            <h3>📍 Address</h3>
+            <p>Med Mart Pharmacy, Near Best Samosa, Teen Batti, Juhapura, Ahmedabad - 380055</p>
+        </div>
+
+        <div class="contact-box">
+            <h3>☎ Phone</h3>
+            <p>+91 9904172592</p>
+        </div>
+
+        <div class="contact-box">
+            <h3>🕐 Opening Hours</h3>
+            <p>10:00 AM(Morning) – 1:00 AM(Night)</p>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- FOOTER -->
+<footer>
+
+    <h3>Med Mart Pharmacy</h3>
+
+    <p>
+        © 2026 Med Mart Pharmacy. All Rights Reserved.
+    </p>
+
+</footer>
+
+
+</body>
+</html>
